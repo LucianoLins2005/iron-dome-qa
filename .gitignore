@@ -1,0 +1,13 @@
+# --- ARQUIVOS DE SISTEMA (NÃO SUBIR) ---
+venv/
+__pycache__/
+*.pyc
+
+# --- SEGURANÇA (CRÍTICO: JAMAIS SUBIR) ---
+.env
+.env.local
+
+# --- DADOS ---
+# Opcional: Se quiser subir os exemplos de relatório, deixe comentado.
+# Se quiser ignorar os relatórios para não sujar o repo, descomente abaixo:
+# reports/

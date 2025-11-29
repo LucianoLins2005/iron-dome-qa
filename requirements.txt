@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+giskard
+pyrit
+langsmith
+python-dotenv
+pandas
+colorama
+pytest
+litellm
