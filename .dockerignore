@@ -1,0 +1,5 @@
+venv/
+.git/
+__pycache__/
+reports/
+secure_corp.db
