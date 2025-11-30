@@ -41,7 +41,11 @@ Painel em tempo real (Streamlit) para visualização de métricas:
 
 O projeto gera relatórios de auditoria e dashboards interativos para análise de risco.
 
----
+---<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b89ba46d-fb7a-4fc7-a1ed-fbc85359e409" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/19d73ab2-6d5b-46ee-b737-0e4ddb497c92" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d9a23688-aa77-420d-b307-6c14d78a233b" />
 
 ## 👨‍💻 Autor
 Desenvolvido por **Luciano Lins** como parte de projeto avançado em QA de IA.
